@@ -1,2 +1,4 @@
 Yeni bir dosya oluşturdum
 Fakat diff'i görmek için bir daha değiştiriyorum
+
+selam naber?
