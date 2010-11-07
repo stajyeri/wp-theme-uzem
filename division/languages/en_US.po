@@ -1,0 +1,718 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weekly 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-14 14:56+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: paran <parandroid.com@gmail.com>\n"
+"Language-Team: Theme Junkie <roy@theme-junkie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:6
+msgid "Apologies, but the page you requested could not be found. Perhaps you are here because: "
+msgstr ""
+
+#: ../404.php:9
+msgid "The page has moved"
+msgstr ""
+
+#: ../404.php:10
+msgid "The page no longer exists"
+msgstr ""
+
+#: ../404.php:11
+msgid "You were looking for your puppy and got lost"
+msgstr ""
+
+#: ../404.php:12
+msgid "You like 404 pages"
+msgstr ""
+
+#: ../404.php:18
+#, php-format
+msgid "Perhaps searching will help or <a href=\"%1$s\">return to homepage</a> or Check out some of our more popular posts:"
+msgstr ""
+
+#: ../404.php:20
+#, php-format
+msgid "Perhaps searching will help or <a href=\"%1$s\">return to homepage</a> or Check out some of our more recent posts:"
+msgstr ""
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:19
+#, php-format
+msgid "One Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:26
+msgid "Pingbacks/Trackbacks"
+msgstr ""
+
+#: ../comments.php:34
+msgid "&laquo; Older Comments"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Newer Comments &raquo;"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: ../contact.php:66
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../contact.php:67
+msgid "Become our fan on Facebook"
+msgstr ""
+
+#: ../contact.php:68
+msgid "More contact details on Linkedin"
+msgstr ""
+
+#: ../contact.php:69
+msgid "Browser Our photos on Flickr"
+msgstr ""
+
+#: ../contact.php:70
+msgid "Subscribe to RSS Feed"
+msgstr ""
+
+#: ../footer.php:33
+msgid "All rights reserved"
+msgstr ""
+
+#: ../footer.php:34
+msgid "Powered by"
+msgstr ""
+
+#: ../footer.php:34
+msgid "WordPress"
+msgstr ""
+
+#: ../footer.php:34
+msgid "and"
+msgstr ""
+
+#: ../footer.php:34
+msgid "Theme Junkie"
+msgstr ""
+
+#: ../functions.php:26
+msgid "Header Pages"
+msgstr ""
+
+#: ../functions.php:27
+msgid "Footer Pages"
+msgstr ""
+
+#: ../functions.php:38
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:40
+msgid "The blog widget area"
+msgstr ""
+
+#: ../functions.php:49
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: ../functions.php:51
+msgid "The portfolio widget area"
+msgstr ""
+
+#: ../functions.php:60
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:62
+msgid "The page widget area"
+msgstr ""
+
+#: ../functions.php:71
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: ../functions.php:73
+#: ../functions.php:84
+#: ../functions.php:95
+#: ../functions.php:106
+msgid "The bottom widget area"
+msgstr ""
+
+#: ../functions.php:82
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: ../functions.php:93
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: ../functions.php:104
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: ../functions.php:366
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:385
+msgid "Search Results"
+msgstr ""
+
+#: ../functions.php:396
+msgid "404 - Not found</h2>"
+msgstr ""
+
+#: ../page.php:23
+msgid "Pages:"
+msgstr ""
+
+#: ../portfolio.php:73
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../search.php:6
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:42
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Enter Search keywords..."
+msgstr ""
+
+#: ../template-archives.php:35
+#: ../functions/category-widget.php:60
+msgid "Categories"
+msgstr ""
+
+#: ../template-archives.php:41
+msgid "Monthly Archive"
+msgstr ""
+
+#: ../functions/category-widget.php:9
+msgid "An advanced widget that gives you more control over the output of your category links."
+msgstr ""
+
+#: ../functions/category-widget.php:10
+msgid "ThemeJunkie - Categories"
+msgstr ""
+
+#: ../functions/category-widget.php:70
+msgid "Ascending"
+msgstr ""
+
+#: ../functions/category-widget.php:70
+msgid "Descending"
+msgstr ""
+
+#: ../functions/category-widget.php:71
+msgid "Count"
+msgstr ""
+
+#: ../functions/category-widget.php:71
+msgid "ID"
+msgstr ""
+
+#: ../functions/category-widget.php:71
+#: ../functions/comments.php:37
+#: ../functions/contact-form.php:88
+msgid "Name"
+msgstr ""
+
+#: ../functions/category-widget.php:71
+msgid "Slug"
+msgstr ""
+
+#: ../functions/category-widget.php:71
+msgid "Term Group"
+msgstr ""
+
+#: ../functions/category-widget.php:76
+msgid "Title:"
+msgstr ""
+
+#: ../functions/category-widget.php:105
+msgid "Hierarchical?"
+msgstr ""
+
+#: ../functions/category-widget.php:109
+msgid "Show count?"
+msgstr ""
+
+#: ../functions/comments.php:10
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> "
+msgstr ""
+
+#: ../functions/comments.php:10
+msgid "Edit"
+msgstr ""
+
+#: ../functions/comments.php:10
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions/comments.php:14
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/comments.php:20
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/comments.php:20
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions/comments.php:38
+#: ../functions/contact-form.php:90
+msgid "Email"
+msgstr ""
+
+#: ../functions/comments.php:39
+msgid "Website"
+msgstr ""
+
+#: ../functions/comments.php:42
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../functions/comments.php:46
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../functions/comments.php:47
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../functions/comments.php:48
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../functions/comments.php:52
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../functions/comments.php:53
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../functions/comments.php:54
+msgid "Cancel reply"
+msgstr ""
+
+#: ../functions/comments.php:55
+msgid "Submit Comment"
+msgstr ""
+
+#: ../functions/contact-form.php:6
+#: ../functions/contact-form.php:67
+msgid "Successfully sent!"
+msgstr ""
+
+#: ../functions/contact-form.php:69
+msgid "An error occurred while sending your email."
+msgstr ""
+
+#: ../functions/contact-form.php:92
+msgid "Subject"
+msgstr ""
+
+#: ../functions/contact-form.php:94
+msgid "Your Message"
+msgstr ""
+
+#: ../functions/contact-form.php:96
+msgid "<b>Check these fields:</b>"
+msgstr ""
+
+#: ../functions/flickr-widget.php:11
+msgid "Theme Junkie - Flickr"
+msgstr ""
+
+#: ../functions/flickr-widget.php:23
+msgid "Photos on <span>Flick<span>r</span></span>"
+msgstr ""
+
+#: ../functions/flickr-widget.php:45
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: ../functions/flickr-widget.php:49
+msgid "Number:"
+msgstr ""
+
+#: ../functions/flickr-widget.php:57
+msgid "Type:"
+msgstr ""
+
+#: ../functions/flickr-widget.php:59
+msgid "User"
+msgstr ""
+
+#: ../functions/flickr-widget.php:60
+msgid "Group"
+msgstr ""
+
+#: ../functions/flickr-widget.php:64
+msgid "Sorting:"
+msgstr ""
+
+#: ../functions/flickr-widget.php:66
+msgid "Latest"
+msgstr ""
+
+#: ../functions/flickr-widget.php:67
+msgid "Random"
+msgstr ""
+
+#: ../functions/meta-box.php:5
+#: ../functions/meta-box.php:6
+msgid "Custom Fields Panel"
+msgstr ""
+
+#: ../functions/meta-box.php:10
+msgid "Blog Header Image"
+msgstr ""
+
+#: ../functions/meta-box.php:11
+msgid "Full Portfolio Image"
+msgstr ""
+
+#: ../functions/meta-box.php:12
+msgid "Portfolio Thumbnail"
+msgstr ""
+
+#: ../functions/meta-box.php:19
+msgid "Teaser"
+msgstr ""
+
+#: ../functions/theme-options.php:31
+msgid "General Settings"
+msgstr ""
+
+#: ../functions/theme-options.php:34
+msgid "Logo Type"
+msgstr ""
+
+#: ../functions/theme-options.php:39
+msgid "Image Logo URL"
+msgstr ""
+
+#: ../functions/theme-options.php:44
+msgid "Enable Cufon font replacement"
+msgstr ""
+
+#: ../functions/theme-options.php:55
+msgid "Blog Settings"
+msgstr ""
+
+#: ../functions/theme-options.php:58
+msgid "Blog Page"
+msgstr ""
+
+#: ../functions/theme-options.php:61
+msgid "Blog Post Excerpt Length"
+msgstr ""
+
+#: ../functions/theme-options.php:66
+#: ../functions/theme-options.php:72
+msgid "Blog Header Image Height"
+msgstr ""
+
+#: ../functions/theme-options.php:78
+msgid "Enable Timthumb(Auto-Resizing) for Blog Header Image"
+msgstr ""
+
+#: ../functions/theme-options.php:90
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../functions/theme-options.php:92
+msgid "Portfolio Page"
+msgstr ""
+
+#: ../functions/theme-options.php:95
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions/theme-options.php:102
+msgid "Posts on Portfolio Post List"
+msgstr ""
+
+#: ../functions/theme-options.php:104
+msgid "\tNumber posts in per page"
+msgstr ""
+
+#: ../functions/theme-options.php:109
+msgid "Display post title, excerpt and meta"
+msgstr ""
+
+#: ../functions/theme-options.php:114
+msgid "Thumbnail Height"
+msgstr ""
+
+#: ../functions/theme-options.php:120
+msgid "Enable Timthumb(Auto-Resizing)"
+msgstr ""
+
+#: ../functions/theme-options.php:125
+#: ../functions/theme-options.php:434
+msgid "Enable Lightbox Window"
+msgstr ""
+
+#: ../functions/theme-options.php:131
+msgid "Single Portfolio Post"
+msgstr ""
+
+#: ../functions/theme-options.php:133
+msgid "Allow comments"
+msgstr ""
+
+#: ../functions/theme-options.php:139
+msgid "Exclude Portfolio from"
+msgstr ""
+
+#: ../functions/theme-options.php:141
+msgid "Date Archive Page"
+msgstr ""
+
+#: ../functions/theme-options.php:146
+msgid "Search Page"
+msgstr ""
+
+#: ../functions/theme-options.php:151
+msgid "Tag Page"
+msgstr ""
+
+#: ../functions/theme-options.php:156
+msgid "RSS feed"
+msgstr ""
+
+#: ../functions/theme-options.php:165
+msgid "Contact Settings"
+msgstr ""
+
+#: ../functions/theme-options.php:168
+msgid "Contact Page"
+msgstr ""
+
+#: ../functions/theme-options.php:240
+msgid "Code Integration"
+msgstr ""
+
+#: ../functions/theme-options.php:243
+msgid "Enable head code"
+msgstr ""
+
+#: ../functions/theme-options.php:248
+msgid "<span class=\"description\">Add code to the < head > of your site</span>"
+msgstr ""
+
+#: ../functions/theme-options.php:253
+msgid "Enable body code"
+msgstr ""
+
+#: ../functions/theme-options.php:258
+msgid "<span class=\"description\">Add code to the < body > (good tracking codes such as google analytics)</span>"
+msgstr ""
+
+#: ../functions/theme-options.php:275
+msgid "Home Settings - Featured Services"
+msgstr ""
+
+#: ../functions/theme-options.php:278
+#: ../functions/theme-options.php:420
+msgid "Enable this area"
+msgstr ""
+
+#: ../functions/theme-options.php:284
+msgid "Featured Services 1"
+msgstr ""
+
+#: ../functions/theme-options.php:286
+#: ../functions/theme-options.php:305
+#: ../functions/theme-options.php:324
+#: ../functions/theme-options.php:343
+msgid "Icon url"
+msgstr ""
+
+#: ../functions/theme-options.php:290
+#: ../functions/theme-options.php:309
+#: ../functions/theme-options.php:328
+#: ../functions/theme-options.php:347
+#: ../functions/theme-options.php:365
+#: ../functions/theme-options.php:379
+#: ../functions/theme-options.php:402
+#: ../functions/theme-options.php:425
+msgid "Title"
+msgstr ""
+
+#: ../functions/theme-options.php:294
+#: ../functions/theme-options.php:313
+#: ../functions/theme-options.php:332
+#: ../functions/theme-options.php:351
+msgid "Description"
+msgstr ""
+
+#: ../functions/theme-options.php:298
+#: ../functions/theme-options.php:317
+#: ../functions/theme-options.php:336
+#: ../functions/theme-options.php:355
+msgid "Link URL"
+msgstr ""
+
+#: ../functions/theme-options.php:303
+msgid "Featured Services 2"
+msgstr ""
+
+#: ../functions/theme-options.php:322
+msgid "Featured Services 3"
+msgstr ""
+
+#: ../functions/theme-options.php:341
+msgid "Featured Services 4"
+msgstr ""
+
+#: ../functions/theme-options.php:363
+msgid "Home Settings - Home Blog News"
+msgstr ""
+
+#: ../functions/theme-options.php:369
+msgid "\tNumber of <b>Blog Posts</b>"
+msgstr ""
+
+#: ../functions/theme-options.php:377
+msgid "Home Settings - Home Quote"
+msgstr ""
+
+#: ../functions/theme-options.php:383
+msgid "Testimonials Page URL"
+msgstr ""
+
+#: ../functions/theme-options.php:387
+#: ../functions/theme-options.php:439
+msgid "Timeout"
+msgstr ""
+
+#: ../functions/theme-options.php:392
+msgid "Testimonial Content"
+msgstr ""
+
+#: ../functions/theme-options.php:400
+msgid "Home Settings - Home Clients"
+msgstr ""
+
+#: ../functions/theme-options.php:406
+msgid "Clients Page URL for title"
+msgstr ""
+
+#: ../functions/theme-options.php:409
+msgid "Client List Code"
+msgstr ""
+
+#: ../functions/theme-options.php:418
+msgid "Home Settings - Home Portfolio Carousel"
+msgstr ""
+
+#: ../functions/theme-options.php:429
+msgid "\tNumber of <b>Portfolio Posts</b>"
+msgstr ""
+
+#: ../functions/theme-options.php:502
+msgid "settings saved."
+msgstr ""
+
+#: ../functions/theme-options.php:503
+msgid "settings reset."
+msgstr ""
+
+#: ../functions/theme-options.php:507
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions/theme-options.php:532
+msgid "Show/Hide"
+msgstr ""
+
+#: ../functions/theme-options.php:546
+msgid "Theme:"
+msgstr ""
+
+#: ../functions/theme-options.php:550
+msgid "Author:"
+msgstr ""
+
+#: ../functions/theme-options.php:554
+msgid "Description:"
+msgstr ""
+
+#: ../functions/theme-options.php:612
+msgid "Save Changes"
+msgstr ""
+
+#: ../functions/theme-options.php:619
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../includes/blog-loop.php:9
+#, php-format
+msgid "by %1$s in %2$s with "
+msgstr ""
+
+#: ../includes/blog-loop.php:9
+msgid "0 comment"
+msgstr ""
+
+#: ../includes/blog-loop.php:9
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/blog-loop.php:9
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/not-found.php:3
+msgid "Apologies, but no results were found for the requested Archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../includes/single-folio.php:1
+msgid "Posted by"
+msgstr ""
+
+#: ../includes/single-folio.php:1
+msgid "on "
+msgstr ""
+
+#: ../includes/single-folio.php:1
+msgid "in "
+msgstr ""
+

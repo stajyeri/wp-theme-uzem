@@ -1,0 +1,4 @@
+*** Division Changelog ***
+ 
+2010.09.15 - version 1.0.0
+ * first release!
