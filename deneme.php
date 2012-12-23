@@ -1,1 +1,5 @@
-dssadsadsadasdasda
+<?php
+
+echo "Selam Dünya";
+
+?>
